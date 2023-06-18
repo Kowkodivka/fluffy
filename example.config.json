@@ -1,0 +1,26 @@
+{
+  "discord": {
+    "secret": {
+      "token": ""
+    },
+    "botChannel": "",
+    "prefix": "!",
+    "starboard": {
+      "enabled": false,
+      "channelID": "",
+      "reactionThreshold": 5
+    },
+    "ratings": {
+      "enabled": false,
+      "timeout": 600,
+      "increaseAmount": 1,
+      "emojiUp": "",
+      "emojiDown": ""
+    }
+  },
+  "management": {
+    "managers": [],
+    "disabledEvents": [],
+    "disabledCommands": []
+  }
+}
