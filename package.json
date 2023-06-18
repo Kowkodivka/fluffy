@@ -10,7 +10,6 @@
   "author": "kowkodivka",
   "license": "ISC",
   "dependencies": {
-    "discord.js-selfbot-v13": "^2.14.5",
-    "socket.io-client": "^4.6.2"
+    "discord.js-selfbot-v13": "^2.14.5"
   }
 }
